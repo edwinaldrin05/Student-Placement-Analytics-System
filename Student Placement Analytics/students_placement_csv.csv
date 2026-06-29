@@ -1,0 +1,871 @@
+﻿Student_ID,Department,CGPA,Internship,Certifications,Company_Name,Package_LPA,Placement_Status
+STU001,BCA,8.62,Yes,3,TCS,4.5,Placed
+STU002,BSc CS,7.15,No,0,NA,0,Not Placed
+STU003,MCA,9.12,Yes,5,Infosys,4.9,Placed
+STU004,BBA,6.85,No,0,NA,0,Not Placed
+STU005,BE CSE,8.95,Yes,4,Accenture,6.7,Placed
+STU006,BCA,9.01,Yes,3,Wipro,6.5,Placed
+STU007,BSc CS,7.87,Yes,1,Zoho,8.7,Placed
+STU008,MCA,9.95,No,0,NA,0,Not Placed
+STU009,BCA,8.62,No,2,Cognizent,7.5,Placed
+STU010,BSc CS,7.15,Yes,4,Amazon,9.5,Placed
+STU011,MCA,9.12,No,0,NA,0,Not Placed
+STU012,BBA,6.85,No,2,Cognizent,7.5,Placed
+STU013,BE CSE,8.95,Yes,4,Amazon,9.5,Placed
+STU014,BCA,9.01,No,3,TCS,4.5,Placed
+STU015,BSc CS,7.87,Yes,0,NA,0,Not Placed
+STU016,MCA,9.95,No,5,Infosys,4.9,Placed
+STU017,MCA,9.01,Yes,0,NA,0,Not Placed
+STU018,BCA,7.87,Yes,4,Accenture,6.7,Placed
+STU019,MCA,9.95,Yes,3,Wipro,6.5,Placed
+STU020,BCA,8.62,No,1,Zoho,8.7,Placed
+STU021,BCA,7.15,No,0,NA,0,Not Placed
+STU022,BSc CS,9.12,Yes,2,Cognizent,7.5,Placed
+STU023,MCA,6.85,No,4,Amazon,9.5,Placed
+STU024,BBA,8.95,No,0,NA,0,Not Placed
+STU025,BE CSE,9.01,Yes,2,Cognizent,7.5,Placed
+STU026,BCA,7.87,No,4,Amazon,9.5,Placed
+STU027,BSc CS,9.95,Yes,3,TCS,4.5,Placed
+STU028,MCA,8.62,Yes,0,NA,0,Not Placed
+STU029,BCA,7.15,Yes,5,Infosys,4.9,Placed
+STU030,BSc CS,9.12,No,0,NA,0,Not Placed
+STU031,MCA,6.85,No,4,Accenture,6.7,Placed
+STU032,BBA,8.95,Yes,3,Wipro,6.5,Placed
+STU033,BE CSE,9.01,No,1,Zoho,8.7,Placed
+STU034,BCA,7.87,No,0,NA,0,Not Placed
+STU035,BSc CS,9.95,Yes,2,Cognizent,7.5,Placed
+STU036,MCA,8.62,No,4,Amazon,9.5,Placed
+STU037,MCA,7.15,Yes,0,NA,0,Not Placed
+STU038,BCA,9.12,No,2,Cognizent,7.5,Placed
+STU039,MCA,6.85,Yes,4,Amazon,9.5,Placed
+STU040,BCA,8.95,Yes,3,TCS,4.5,Placed
+STU041,BCA,9.01,Yes,0,NA,0,Not Placed
+STU042,BSc CS,7.87,No,5,Infosys,4.9,Placed
+STU043,MCA,9.95,No,0,NA,0,Not Placed
+STU044,BBA,9.01,Yes,4,Accenture,6.7,Placed
+STU045,BE CSE,7.87,No,3,Wipro,6.5,Placed
+STU046,BCA,9.95,No,1,Zoho,8.7,Placed
+STU047,BSc CS,8.62,Yes,0,NA,0,Not Placed
+STU048,MCA,7.15,No,2,Cognizent,7.5,Placed
+STU049,BCA,9.12,Yes,4,Amazon,9.5,Placed
+STU050,BSc CS,6.85,No,0,NA,0,Not Placed
+STU051,MCA,8.95,Yes,2,Cognizent,7.5,Placed
+STU052,BBA,9.01,Yes,4,Amazon,9.5,Placed
+STU053,BE CSE,7.87,Yes,3,TCS,4.5,Placed
+STU054,BCA,9.95,No,0,NA,0,Not Placed
+STU055,BSc CS,9.01,No,5,Infosys,4.9,Placed
+STU056,MCA,7.87,Yes,0,NA,0,Not Placed
+STU057,MCA,9.95,No,4,Accenture,6.7,Placed
+STU058,BCA,8.62,No,3,Wipro,6.5,Placed
+STU059,MCA,7.15,Yes,1,Zoho,8.7,Placed
+STU060,BCA,9.12,Yes,0,NA,0,Not Placed
+STU061,BCA,6.85,No,2,Cognizent,7.5,Placed
+STU062,BSc CS,8.95,Yes,4,Amazon,9.5,Placed
+STU063,MCA,9.01,No,0,NA,0,Not Placed
+STU064,BBA,7.87,Yes,2,Cognizent,7.5,Placed
+STU065,BE CSE,9.95,Yes,4,Amazon,9.5,Placed
+STU066,BCA,8.62,Yes,3,TCS,4.5,Placed
+STU067,BSc CS,7.15,No,0,NA,0,Not Placed
+STU068,MCA,9.12,No,5,Infosys,4.9,Placed
+STU069,BCA,6.85,Yes,0,NA,0,Not Placed
+STU070,BSc CS,8.95,No,4,Accenture,6.7,Placed
+STU071,MCA,9.01,No,3,Wipro,6.5,Placed
+STU072,BBA,7.87,Yes,1,Zoho,8.7,Placed
+STU073,BE CSE,9.95,No,0,NA,0,Not Placed
+STU074,BCA,9.01,Yes,2,Cognizent,7.5,Placed
+STU075,BSc CS,7.87,No,4,Amazon,9.5,Placed
+STU076,MCA,9.95,Yes,0,NA,0,Not Placed
+STU077,MCA,8.62,Yes,2,Cognizent,7.5,Placed
+STU078,BCA,7.15,Yes,4,Amazon,9.5,Placed
+STU079,MCA,9.12,No,3,TCS,4.5,Placed
+STU080,BCA,6.85,No,0,NA,0,Not Placed
+STU081,BCA,8.95,Yes,5,Infosys,4.9,Placed
+STU082,BSc CS,9.01,No,0,NA,0,Not Placed
+STU083,MCA,7.87,No,4,Accenture,6.7,Placed
+STU084,BBA,9.95,Yes,3,Wipro,6.5,Placed
+STU085,BE CSE,8.62,No,1,Zoho,8.7,Placed
+STU086,BCA,7.15,Yes,0,NA,0,Not Placed
+STU087,BSc CS,9.12,Yes,2,Cognizent,7.5,Placed
+STU088,MCA,6.85,Yes,4,Amazon,9.5,Placed
+STU089,BCA,8.95,No,0,NA,0,Not Placed
+STU090,BSc CS,9.01,No,2,Cognizent,7.5,Placed
+STU091,MCA,7.87,Yes,4,Amazon,9.5,Placed
+STU092,BBA,9.95,No,3,TCS,4.5,Placed
+STU093,BE CSE,8.62,No,0,NA,0,Not Placed
+STU094,BCA,7.15,Yes,5,Infosys,4.9,Placed
+STU095,BSc CS,9.12,No,0,NA,0,Not Placed
+STU096,MCA,6.85,Yes,4,Accenture,6.7,Placed
+STU097,MCA,8.95,No,3,Wipro,6.5,Placed
+STU098,BCA,9.01,Yes,1,Zoho,8.7,Placed
+STU099,MCA,7.87,Yes,0,NA,0,Not Placed
+STU100,BCA,9.95,Yes,2,Cognizent,7.5,Placed
+STU101,BCA,9.01,No,4,Amazon,9.5,Placed
+STU102,BSc CS,7.87,No,0,NA,0,Not Placed
+STU103,MCA,9.95,Yes,2,Cognizent,7.5,Placed
+STU104,BBA,8.62,No,4,Amazon,9.5,Placed
+STU105,BE CSE,7.15,No,3,TCS,4.5,Placed
+STU106,BCA,9.12,Yes,0,NA,0,Not Placed
+STU107,BSc CS,6.85,No,5,Infosys,4.9,Placed
+STU108,MCA,8.95,Yes,0,NA,0,Not Placed
+STU109,BCA,9.01,No,4,Accenture,6.7,Placed
+STU110,BSc CS,7.87,Yes,3,Wipro,6.5,Placed
+STU111,MCA,9.95,Yes,1,Zoho,8.7,Placed
+STU112,BBA,8.62,Yes,0,NA,0,Not Placed
+STU113,BE CSE,7.15,No,2,Cognizent,7.5,Placed
+STU114,BCA,9.12,No,4,Amazon,9.5,Placed
+STU115,BSc CS,6.85,Yes,0,NA,0,Not Placed
+STU116,MCA,8.95,No,2,Cognizent,7.5,Placed
+STU117,MCA,9.01,No,4,Amazon,9.5,Placed
+STU118,BCA,7.87,Yes,3,TCS,4.5,Placed
+STU119,MCA,9.95,Yes,0,NA,0,Not Placed
+STU120,BCA,8.62,No,5,Infosys,4.9,Placed
+STU121,BCA,7.15,Yes,0,NA,0,Not Placed
+STU122,BSc CS,9.12,No,4,Accenture,6.7,Placed
+STU123,MCA,6.85,Yes,3,Wipro,6.5,Placed
+STU124,BBA,8.95,Yes,1,Zoho,8.7,Placed
+STU125,BE CSE,9.01,Yes,0,NA,0,Not Placed
+STU126,BCA,7.87,No,2,Cognizent,7.5,Placed
+STU127,BSc CS,9.95,No,4,Amazon,9.5,Placed
+STU128,MCA,9.01,Yes,0,NA,0,Not Placed
+STU129,BCA,7.87,No,2,Cognizent,7.5,Placed
+STU130,BSc CS,9.95,No,4,Amazon,9.5,Placed
+STU131,MCA,8.62,Yes,3,TCS,4.5,Placed
+STU132,BBA,7.15,No,0,NA,0,Not Placed
+STU133,BE CSE,9.12,Yes,5,Infosys,4.9,Placed
+STU134,BCA,6.85,No,0,NA,0,Not Placed
+STU135,BSc CS,8.95,Yes,4,Accenture,6.7,Placed
+STU136,MCA,9.01,Yes,3,Wipro,6.5,Placed
+STU137,MCA,7.87,Yes,1,Zoho,8.7,Placed
+STU138,BCA,9.95,No,0,NA,0,Not Placed
+STU139,MCA,9.01,No,2,Cognizent,7.5,Placed
+STU140,BCA,7.87,Yes,4,Amazon,9.5,Placed
+STU141,BCA,9.95,No,0,NA,0,Not Placed
+STU142,BSc CS,8.62,No,2,Cognizent,7.5,Placed
+STU143,MCA,7.15,Yes,4,Amazon,9.5,Placed
+STU144,BBA,9.12,No,3,TCS,4.5,Placed
+STU145,BE CSE,6.85,Yes,0,NA,0,Not Placed
+STU146,BCA,8.95,Yes,5,Infosys,4.9,Placed
+STU147,BSc CS,9.01,Yes,0,NA,0,Not Placed
+STU148,MCA,7.87,No,4,Accenture,6.7,Placed
+STU149,BCA,9.95,No,3,Wipro,6.5,Placed
+STU150,BSc CS,8.62,Yes,1,Zoho,8.7,Placed
+STU151,MCA,7.15,No,0,NA,0,Not Placed
+STU152,BBA,9.12,No,2,Cognizent,7.5,Placed
+STU153,BE CSE,6.85,Yes,4,Amazon,9.5,Placed
+STU154,BCA,8.95,No,0,NA,0,Not Placed
+STU155,BSc CS,9.01,Yes,2,Cognizent,7.5,Placed
+STU156,MCA,7.87,No,4,Amazon,9.5,Placed
+STU157,MCA,9.95,Yes,3,TCS,4.5,Placed
+STU158,BCA,9.01,Yes,0,NA,0,Not Placed
+STU159,MCA,7.87,Yes,5,Infosys,4.9,Placed
+STU160,BCA,9.95,No,0,NA,0,Not Placed
+STU161,BCA,8.62,No,4,Accenture,6.7,Placed
+STU162,BSc CS,7.15,Yes,3,Wipro,6.5,Placed
+STU163,MCA,9.12,No,1,Zoho,8.7,Placed
+STU164,BBA,6.85,No,0,NA,0,Not Placed
+STU165,BE CSE,8.95,Yes,2,Cognizent,7.5,Placed
+STU166,BCA,9.01,No,4,Amazon,9.5,Placed
+STU167,BSc CS,7.87,Yes,0,NA,0,Not Placed
+STU168,MCA,9.95,No,2,Cognizent,7.5,Placed
+STU169,BCA,8.62,Yes,4,Amazon,9.5,Placed
+STU170,BSc CS,7.15,Yes,3,TCS,4.5,Placed
+STU171,MCA,9.12,Yes,0,NA,0,Not Placed
+STU172,BBA,6.85,No,5,Infosys,4.9,Placed
+STU173,BE CSE,8.95,No,0,NA,0,Not Placed
+STU174,BCA,9.01,Yes,4,Accenture,6.7,Placed
+STU175,BSc CS,7.87,No,3,Wipro,6.5,Placed
+STU176,MCA,9.95,No,1,Zoho,8.7,Placed
+STU177,MCA,8.62,Yes,0,NA,0,Not Placed
+STU178,BCA,7.15,Yes,2,Cognizent,7.5,Placed
+STU179,MCA,9.12,No,4,Amazon,9.5,Placed
+STU180,BCA,6.85,Yes,0,NA,0,Not Placed
+STU181,BCA,8.95,No,2,Cognizent,7.5,Placed
+STU182,BSc CS,9.01,Yes,4,Amazon,9.5,Placed
+STU183,MCA,7.87,Yes,3,TCS,4.5,Placed
+STU184,BBA,9.95,Yes,0,NA,0,Not Placed
+STU185,BE CSE,9.01,No,5,Infosys,4.9,Placed
+STU186,BCA,7.87,No,0,NA,0,Not Placed
+STU187,BSc CS,9.95,Yes,4,Accenture,6.7,Placed
+STU188,MCA,8.62,No,3,Wipro,6.5,Placed
+STU189,BCA,7.15,No,1,Zoho,8.7,Placed
+STU190,BSc CS,9.12,Yes,0,NA,0,Not Placed
+STU191,MCA,6.85,No,2,Cognizent,7.5,Placed
+STU192,BBA,8.95,Yes,4,Amazon,9.5,Placed
+STU193,BE CSE,9.01,No,0,NA,0,Not Placed
+STU194,BCA,7.87,Yes,2,Cognizent,7.5,Placed
+STU195,BSc CS,9.95,Yes,4,Amazon,9.5,Placed
+STU196,MCA,8.62,Yes,3,TCS,4.5,Placed
+STU197,MCA,7.15,No,0,NA,0,Not Placed
+STU198,BCA,9.12,No,5,Infosys,4.9,Placed
+STU199,MCA,6.85,Yes,0,NA,0,Not Placed
+STU200,BCA,8.95,No,4,Accenture,6.7,Placed
+STU201,BCA,9.01,No,3,Wipro,6.5,Placed
+STU202,BSc CS,7.87,Yes,1,Zoho,8.7,Placed
+STU203,MCA,9.95,No,0,NA,0,Not Placed
+STU204,BBA,8.62,Yes,2,Cognizent,7.5,Placed
+STU205,BE CSE,7.15,Yes,4,Amazon,9.5,Placed
+STU206,BCA,9.12,Yes,0,NA,0,Not Placed
+STU207,BSc CS,6.85,No,2,Cognizent,7.5,Placed
+STU208,MCA,8.95,No,4,Amazon,9.5,Placed
+STU209,BCA,9.01,Yes,1,Zoho,8.7,Placed
+STU210,BSc CS,7.87,No,0,NA,0,Not Placed
+STU211,MCA,9.95,No,2,Cognizent,7.5,Placed
+STU212,BBA,9.01,Yes,4,Amazon,9.5,Placed
+STU213,BE CSE,7.87,No,0,NA,0,Not Placed
+STU214,BCA,9.95,Yes,2,Cognizent,7.5,Placed
+STU215,BSc CS,8.62,No,4,Amazon,9.5,Placed
+STU216,MCA,7.15,Yes,3,TCS,4.5,Placed
+STU217,MCA,9.12,Yes,0,NA,0,Not Placed
+STU218,BCA,6.85,Yes,5,Infosys,4.9,Placed
+STU219,MCA,8.95,No,0,NA,0,Not Placed
+STU220,BCA,9.01,No,4,Accenture,6.7,Placed
+STU221,BCA,7.87,Yes,3,Wipro,6.5,Placed
+STU222,BSc CS,9.95,No,1,Zoho,8.7,Placed
+STU223,MCA,9.01,No,0,NA,0,Not Placed
+STU224,BBA,7.87,Yes,2,Cognizent,7.5,Placed
+STU225,BE CSE,9.95,No,4,Amazon,9.5,Placed
+STU226,BCA,8.62,Yes,0,NA,0,Not Placed
+STU227,BSc CS,7.15,No,2,Cognizent,7.5,Placed
+STU228,MCA,9.12,Yes,4,Amazon,9.5,Placed
+STU229,BCA,6.85,Yes,3,TCS,4.5,Placed
+STU230,BSc CS,8.95,Yes,0,NA,0,Not Placed
+STU231,MCA,9.01,No,5,Infosys,4.9,Placed
+STU232,BBA,7.87,No,0,NA,0,Not Placed
+STU233,BE CSE,9.95,Yes,4,Accenture,6.7,Placed
+STU234,BCA,8.62,No,3,Wipro,6.5,Placed
+STU235,BSc CS,7.15,No,1,Zoho,8.7,Placed
+STU236,MCA,9.12,Yes,0,NA,0,Not Placed
+STU237,MCA,6.85,Yes,2,Cognizent,7.5,Placed
+STU238,BCA,8.95,No,4,Amazon,9.5,Placed
+STU239,MCA,9.01,Yes,0,NA,0,Not Placed
+STU240,BCA,7.87,No,2,Cognizent,7.5,Placed
+STU241,BCA,9.95,Yes,4,Amazon,9.5,Placed
+STU242,BSc CS,9.01,Yes,3,TCS,4.5,Placed
+STU243,MCA,7.87,Yes,0,NA,0,Not Placed
+STU244,BBA,9.95,No,5,Infosys,4.9,Placed
+STU245,BE CSE,8.62,No,0,NA,0,Not Placed
+STU246,BCA,7.15,Yes,4,Accenture,6.7,Placed
+STU247,BSc CS,9.12,No,3,Wipro,6.5,Placed
+STU248,MCA,6.85,No,1,Zoho,8.7,Placed
+STU249,BCA,8.95,Yes,0,NA,0,Not Placed
+STU250,BSc CS,9.01,No,2,Cognizent,7.5,Placed
+STU251,MCA,7.87,Yes,4,Amazon,9.5,Placed
+STU252,BBA,9.95,No,0,NA,0,Not Placed
+STU253,BE CSE,8.62,Yes,2,Cognizent,7.5,Placed
+STU254,BCA,7.15,Yes,4,Amazon,9.5,Placed
+STU255,BSc CS,9.12,Yes,3,TCS,4.5,Placed
+STU256,MCA,6.85,No,0,NA,0,Not Placed
+STU257,MCA,8.95,No,5,Infosys,4.9,Placed
+STU258,BCA,9.01,Yes,0,NA,0,Not Placed
+STU259,MCA,7.87,No,4,Accenture,6.7,Placed
+STU260,BCA,9.95,No,3,Wipro,6.5,Placed
+STU261,BCA,8.62,Yes,1,Zoho,8.7,Placed
+STU262,BSc CS,7.15,No,0,NA,0,Not Placed
+STU263,MCA,9.12,Yes,2,Cognizent,7.5,Placed
+STU264,BBA,6.85,Yes,4,Amazon,9.5,Placed
+STU265,BE CSE,8.95,Yes,0,NA,0,Not Placed
+STU266,BCA,9.01,No,2,Cognizent,7.5,Placed
+STU267,BSc CS,7.87,No,4,Amazon,9.5,Placed
+STU268,MCA,9.95,Yes,3,TCS,4.5,Placed
+STU269,BCA,9.01,No,0,NA,0,Not Placed
+STU270,BSc CS,7.87,No,5,Infosys,4.9,Placed
+STU271,MCA,9.95,Yes,0,NA,0,Not Placed
+STU272,BBA,8.62,No,4,Accenture,6.7,Placed
+STU273,BE CSE,7.15,Yes,3,Wipro,6.5,Placed
+STU274,BCA,9.12,No,1,Zoho,8.7,Placed
+STU275,BSc CS,6.85,Yes,0,NA,0,Not Placed
+STU276,MCA,8.95,Yes,2,Cognizent,7.5,Placed
+STU277,MCA,9.01,Yes,4,Amazon,9.5,Placed
+STU278,BCA,7.87,No,0,NA,0,Not Placed
+STU279,MCA,9.95,No,2,Cognizent,7.5,Placed
+STU280,BCA,8.62,Yes,4,Amazon,9.5,Placed
+STU281,BCA,7.15,No,3,TCS,4.5,Placed
+STU282,BSc CS,9.12,No,0,NA,0,Not Placed
+STU283,MCA,6.85,Yes,5,Infosys,4.9,Placed
+STU284,BBA,8.95,No,0,NA,0,Not Placed
+STU285,BE CSE,9.01,Yes,4,Accenture,6.7,Placed
+STU286,BCA,7.87,No,3,Wipro,6.5,Placed
+STU287,BSc CS,9.95,Yes,1,Zoho,8.7,Placed
+STU288,MCA,8.62,Yes,0,NA,0,Not Placed
+STU289,BCA,7.15,Yes,2,Cognizent,7.5,Placed
+STU290,BSc CS,9.12,No,4,Amazon,9.5,Placed
+STU291,MCA,6.85,No,0,NA,0,Not Placed
+STU292,BBA,8.95,Yes,2,Cognizent,7.5,Placed
+STU293,BE CSE,9.01,No,4,Amazon,9.5,Placed
+STU294,BCA,7.87,No,3,TCS,4.5,Placed
+STU295,BSc CS,9.95,Yes,0,NA,0,Not Placed
+STU296,MCA,9.01,Yes,5,Infosys,4.9,Placed
+STU297,MCA,7.87,No,0,NA,0,Not Placed
+STU298,BCA,9.95,Yes,4,Accenture,6.7,Placed
+STU299,MCA,8.62,No,3,Wipro,6.5,Placed
+STU300,BCA,7.15,Yes,1,Zoho,8.7,Placed
+STU301,BCA,9.12,Yes,0,NA,0,Not Placed
+STU302,BSc CS,6.85,Yes,2,Cognizent,7.5,Placed
+STU303,MCA,8.95,No,4,Amazon,9.5,Placed
+STU304,BBA,9.01,No,0,NA,0,Not Placed
+STU305,BE CSE,7.87,Yes,2,Cognizent,7.5,Placed
+STU306,BCA,9.95,No,4,Amazon,9.5,Placed
+STU307,BSc CS,9.01,No,3,TCS,4.5,Placed
+STU308,MCA,7.87,Yes,0,NA,0,Not Placed
+STU309,BCA,9.95,No,5,Infosys,4.9,Placed
+STU310,BSc CS,8.62,Yes,0,NA,0,Not Placed
+STU311,MCA,7.15,No,4,Accenture,6.7,Placed
+STU312,BBA,9.12,Yes,3,Wipro,6.5,Placed
+STU313,BE CSE,6.85,Yes,1,Zoho,8.7,Placed
+STU314,BCA,8.95,Yes,0,NA,0,Not Placed
+STU315,BSc CS,9.01,No,2,Cognizent,7.5,Placed
+STU316,MCA,7.87,No,4,Amazon,9.5,Placed
+STU317,MCA,9.95,Yes,0,NA,0,Not Placed
+STU318,BCA,8.62,No,2,Cognizent,7.5,Placed
+STU319,MCA,7.15,No,4,Amazon,9.5,Placed
+STU320,BCA,9.12,Yes,3,TCS,4.5,Placed
+STU321,BCA,6.85,No,0,NA,0,Not Placed
+STU322,BSc CS,8.95,Yes,5,Infosys,4.9,Placed
+STU323,MCA,9.01,Yes,0,NA,0,Not Placed
+STU324,BCA,7.87,Yes,4,Accenture,6.7,Placed
+STU325,BSc CS,9.95,No,3,Wipro,6.5,Placed
+STU326,MCA,9.01,No,1,Zoho,8.7,Placed
+STU327,BBA,7.87,Yes,0,NA,0,Not Placed
+STU328,BE CSE,9.95,No,2,Cognizent,7.5,Placed
+STU329,BCA,8.62,No,4,Amazon,9.5,Placed
+STU330,BSc CS,7.15,Yes,0,NA,0,Not Placed
+STU331,MCA,9.12,No,2,Cognizent,7.5,Placed
+STU332,MCA,6.85,Yes,4,Amazon,9.5,Placed
+STU333,BCA,8.95,No,3,TCS,4.5,Placed
+STU334,MCA,9.01,Yes,0,NA,0,Not Placed
+STU335,BCA,7.87,Yes,5,Infosys,4.9,Placed
+STU336,BCA,9.95,Yes,0,NA,0,Not Placed
+STU337,BSc CS,8.62,No,4,Accenture,6.7,Placed
+STU338,MCA,7.15,No,3,Wipro,6.5,Placed
+STU339,BBA,9.12,Yes,1,Zoho,8.7,Placed
+STU340,BE CSE,6.85,No,0,NA,0,Not Placed
+STU341,BCA,8.95,No,2,Cognizent,7.5,Placed
+STU342,BSc CS,9.01,Yes,4,Amazon,9.5,Placed
+STU343,MCA,7.87,No,0,NA,0,Not Placed
+STU344,BCA,9.95,Yes,2,Cognizent,7.5,Placed
+STU345,BSc CS,8.62,No,4,Amazon,9.5,Placed
+STU346,MCA,7.15,Yes,3,TCS,4.5,Placed
+STU347,BBA,9.12,Yes,0,NA,0,Not Placed
+STU348,BE CSE,6.85,Yes,5,Infosys,4.9,Placed
+STU349,BCA,8.95,No,0,NA,0,Not Placed
+STU350,BSc CS,9.01,No,4,Accenture,6.7,Placed
+STU351,MCA,7.87,Yes,3,Wipro,6.5,Placed
+STU352,MCA,9.95,No,1,Zoho,8.7,Placed
+STU353,BCA,9.01,No,0,NA,0,Not Placed
+STU354,MCA,7.87,Yes,2,Cognizent,7.5,Placed
+STU355,BCA,9.95,Yes,4,Amazon,9.5,Placed
+STU356,BCA,8.62,No,0,NA,0,Not Placed
+STU357,BSc CS,7.15,Yes,2,Cognizent,7.5,Placed
+STU358,MCA,9.12,No,4,Amazon,9.5,Placed
+STU359,BBA,6.85,Yes,3,TCS,4.5,Placed
+STU360,BE CSE,8.95,Yes,0,NA,0,Not Placed
+STU361,BCA,9.01,Yes,5,Infosys,4.9,Placed
+STU362,BSc CS,7.87,No,0,NA,0,Not Placed
+STU363,MCA,9.95,No,4,Accenture,6.7,Placed
+STU364,BCA,8.62,Yes,3,Wipro,6.5,Placed
+STU365,BSc CS,7.15,No,1,Zoho,8.7,Placed
+STU366,MCA,9.12,No,0,NA,0,Not Placed
+STU367,BBA,6.85,Yes,2,Cognizent,7.5,Placed
+STU368,BE CSE,8.95,No,4,Amazon,9.5,Placed
+STU369,BCA,9.01,Yes,0,NA,0,Not Placed
+STU370,BSc CS,7.87,No,2,Cognizent,7.5,Placed
+STU371,MCA,9.95,Yes,4,Amazon,9.5,Placed
+STU372,MCA,8.62,Yes,3,TCS,4.5,Placed
+STU373,BCA,7.15,Yes,0,NA,0,Not Placed
+STU374,MCA,9.12,No,5,Infosys,4.9,Placed
+STU375,BCA,6.85,No,0,NA,0,Not Placed
+STU376,BCA,8.95,Yes,4,Accenture,6.7,Placed
+STU377,BSc CS,9.01,No,3,Wipro,6.5,Placed
+STU378,MCA,7.87,No,1,Zoho,8.7,Placed
+STU379,BBA,9.95,Yes,0,NA,0,Not Placed
+STU380,BE CSE,9.01,No,2,Cognizent,7.5,Placed
+STU381,BCA,7.87,Yes,4,Amazon,9.5,Placed
+STU382,BSc CS,9.95,Yes,0,NA,0,Not Placed
+STU383,MCA,8.62,Yes,2,Cognizent,7.5,Placed
+STU384,BCA,7.15,No,4,Amazon,9.5,Placed
+STU385,BSc CS,9.12,No,3,TCS,4.5,Placed
+STU386,MCA,6.85,Yes,0,NA,0,Not Placed
+STU387,BBA,8.95,No,5,Infosys,4.9,Placed
+STU388,BE CSE,9.01,No,0,NA,0,Not Placed
+STU389,BCA,7.87,Yes,4,Accenture,6.7,Placed
+STU390,BSc CS,9.95,No,3,Wipro,6.5,Placed
+STU391,MCA,9.01,Yes,1,Zoho,8.7,Placed
+STU392,MCA,7.87,No,0,NA,0,Not Placed
+STU393,BCA,9.95,Yes,2,Cognizent,7.5,Placed
+STU394,MCA,8.62,Yes,4,Amazon,9.5,Placed
+STU395,BCA,7.15,Yes,0,NA,0,Not Placed
+STU396,BCA,9.12,No,2,Cognizent,7.5,Placed
+STU397,BSc CS,6.85,No,4,Amazon,9.5,Placed
+STU398,MCA,8.95,Yes,3,TCS,4.5,Placed
+STU399,BBA,9.01,No,0,NA,0,Not Placed
+STU400,BE CSE,7.87,No,5,Infosys,4.9,Placed
+STU401,BCA,9.95,Yes,0,NA,0,Not Placed
+STU402,BSc CS,8.62,No,4,Accenture,6.7,Placed
+STU403,MCA,7.15,Yes,3,Wipro,6.5,Placed
+STU404,BCA,9.12,No,1,Zoho,8.7,Placed
+STU405,BSc CS,6.85,Yes,0,NA,0,Not Placed
+STU406,MCA,8.95,Yes,2,Cognizent,7.5,Placed
+STU407,BBA,9.01,Yes,4,Amazon,9.5,Placed
+STU408,BE CSE,7.87,No,0,NA,0,Not Placed
+STU409,BCA,9.95,No,2,Cognizent,7.5,Placed
+STU410,BSc CS,9.01,Yes,4,Amazon,9.5,Placed
+STU411,MCA,7.87,No,3,TCS,4.5,Placed
+STU412,MCA,9.95,No,0,NA,0,Not Placed
+STU413,BCA,8.62,Yes,5,Infosys,4.9,Placed
+STU414,MCA,7.15,Yes,0,NA,0,Not Placed
+STU415,BCA,9.12,No,4,Accenture,6.7,Placed
+STU416,BCA,6.85,Yes,3,Wipro,6.5,Placed
+STU417,BSc CS,8.95,No,1,Zoho,8.7,Placed
+STU418,MCA,9.01,Yes,0,NA,0,Not Placed
+STU419,BBA,7.87,Yes,2,Cognizent,7.5,Placed
+STU420,BE CSE,9.95,Yes,4,Amazon,9.5,Placed
+STU421,BCA,8.62,No,0,NA,0,Not Placed
+STU422,BSc CS,7.15,No,2,Cognizent,7.5,Placed
+STU423,MCA,9.12,Yes,4,Amazon,9.5,Placed
+STU424,BCA,6.85,No,3,TCS,4.5,Placed
+STU425,BSc CS,8.95,No,0,NA,0,Not Placed
+STU426,MCA,9.01,Yes,5,Infosys,4.9,Placed
+STU427,BBA,7.87,No,0,NA,0,Not Placed
+STU428,BE CSE,9.95,Yes,4,Accenture,6.7,Placed
+STU429,BCA,8.62,No,3,Wipro,6.5,Placed
+STU430,BSc CS,7.15,Yes,1,Zoho,8.7,Placed
+STU431,MCA,9.12,Yes,0,NA,0,Not Placed
+STU432,MCA,6.85,Yes,2,Cognizent,7.5,Placed
+STU433,BCA,8.95,No,4,Amazon,9.5,Placed
+STU434,MCA,9.01,No,0,NA,0,Not Placed
+STU435,BCA,7.87,Yes,2,Cognizent,7.5,Placed
+STU436,BCA,9.95,No,4,Amazon,9.5,Placed
+STU437,BSc CS,9.01,No,3,TCS,4.5,Placed
+STU438,MCA,7.87,Yes,0,NA,0,Not Placed
+STU439,BBA,9.95,No,5,Infosys,4.9,Placed
+STU440,BE CSE,8.62,Yes,0,NA,0,Not Placed
+STU441,BCA,7.15,Yes,4,Accenture,6.7,Placed
+STU442,BSc CS,9.12,Yes,3,Wipro,6.5,Placed
+STU443,MCA,6.85,No,1,Zoho,8.7,Placed
+STU444,BCA,8.95,No,0,NA,0,Not Placed
+STU445,BSc CS,9.01,Yes,2,Cognizent,7.5,Placed
+STU446,MCA,7.87,No,4,Amazon,9.5,Placed
+STU447,BBA,9.95,No,0,NA,0,Not Placed
+STU448,BE CSE,8.62,Yes,2,Cognizent,7.5,Placed
+STU449,BCA,7.15,No,4,Amazon,9.5,Placed
+STU450,BSc CS,9.12,Yes,3,TCS,4.5,Placed
+STU451,MCA,6.85,No,0,NA,0,Not Placed
+STU452,MCA,8.95,Yes,5,Infosys,4.9,Placed
+STU453,BCA,9.01,Yes,0,NA,0,Not Placed
+STU454,MCA,7.87,Yes,4,Accenture,6.7,Placed
+STU455,BCA,9.95,No,3,Wipro,6.5,Placed
+STU456,BCA,8.62,No,1,Zoho,8.7,Placed
+STU457,BSc CS,7.15,Yes,0,NA,0,Not Placed
+STU458,MCA,9.12,No,2,Cognizent,7.5,Placed
+STU459,BBA,6.85,No,4,Amazon,9.5,Placed
+STU460,BE CSE,8.95,Yes,0,NA,0,Not Placed
+STU461,BCA,9.01,No,2,Cognizent,7.5,Placed
+STU462,BSc CS,7.87,Yes,4,Amazon,9.5,Placed
+STU463,MCA,9.95,No,3,TCS,4.5,Placed
+STU464,BCA,9.01,Yes,0,NA,0,Not Placed
+STU465,BSc CS,7.87,Yes,5,Infosys,4.9,Placed
+STU466,MCA,9.95,Yes,0,NA,0,Not Placed
+STU467,BBA,8.62,No,4,Accenture,6.7,Placed
+STU468,BE CSE,7.15,No,3,Wipro,6.5,Placed
+STU469,BCA,9.12,Yes,1,Zoho,8.7,Placed
+STU470,BSc CS,6.85,No,0,NA,0,Not Placed
+STU471,MCA,8.95,No,2,Cognizent,7.5,Placed
+STU472,MCA,9.01,Yes,4,Amazon,9.5,Placed
+STU473,BCA,7.87,No,0,NA,0,Not Placed
+STU474,MCA,9.95,Yes,2,Cognizent,7.5,Placed
+STU475,BCA,9.01,Yes,4,Amazon,9.5,Placed
+STU476,BCA,7.87,Yes,3,TCS,4.5,Placed
+STU477,BSc CS,9.95,No,0,NA,0,Not Placed
+STU478,MCA,8.62,No,5,Infosys,4.9,Placed
+STU479,BBA,7.15,Yes,0,NA,0,Not Placed
+STU480,BE CSE,9.12,No,4,Accenture,6.7,Placed
+STU481,BCA,6.85,No,3,Wipro,6.5,Placed
+STU482,BSc CS,8.95,Yes,1,Zoho,8.7,Placed
+STU483,MCA,9.01,No,0,NA,0,Not Placed
+STU484,BCA,7.87,Yes,2,Cognizent,7.5,Placed
+STU485,BSc CS,9.95,No,4,Amazon,9.5,Placed
+STU486,MCA,8.62,Yes,0,NA,0,Not Placed
+STU487,BBA,7.15,Yes,2,Cognizent,7.5,Placed
+STU488,BE CSE,9.12,Yes,4,Amazon,9.5,Placed
+STU489,BCA,6.85,No,3,TCS,4.5,Placed
+STU490,BSc CS,8.95,No,0,NA,0,Not Placed
+STU491,MCA,9.01,Yes,5,Infosys,4.9,Placed
+STU492,MCA,7.87,No,0,NA,0,Not Placed
+STU493,BCA,9.95,No,4,Accenture,6.7,Placed
+STU494,MCA,9.01,Yes,3,Wipro,6.5,Placed
+STU495,BCA,7.87,No,1,Zoho,8.7,Placed
+STU496,BCA,9.95,Yes,0,NA,0,Not Placed
+STU497,BSc CS,8.62,No,2,Cognizent,7.5,Placed
+STU498,MCA,7.15,Yes,4,Amazon,9.5,Placed
+STU499,BBA,9.12,Yes,0,NA,0,Not Placed
+STU500,BE CSE,6.85,Yes,2,Cognizent,7.5,Placed
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
